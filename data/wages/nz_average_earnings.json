@@ -1,110 +1,110 @@
 [
   {
     "year": 1998,
-    "average_hourly_wage": 16.19
+    "wage": 16.19
   },
   {
     "year": 1999,
-    "average_hourly_wage": 17.57
+    "wage": 17.57
   },
   {
     "year": 2000,
-    "average_hourly_wage": 17.67
+    "wage": 17.67
   },
   {
     "year": 2001,
-    "average_hourly_wage": 17.55
+    "wage": 17.55
   },
   {
     "year": 2002,
-    "average_hourly_wage": 18.37
+    "wage": 18.37
   },
   {
     "year": 2003,
-    "average_hourly_wage": 19.79
+    "wage": 19.79
   },
   {
     "year": 2004,
-    "average_hourly_wage": 20.78
+    "wage": 20.78
   },
   {
     "year": 2005,
-    "average_hourly_wage": 20.7
+    "wage": 20.7
   },
   {
     "year": 2006,
-    "average_hourly_wage": 21.26
+    "wage": 21.26
   },
   {
     "year": 2007,
-    "average_hourly_wage": 22.75
+    "wage": 22.75
   },
   {
     "year": 2008,
-    "average_hourly_wage": 23.3
+    "wage": 23.3
   },
   {
     "year": 2009,
-    "average_hourly_wage": 24.15
+    "wage": 24.15
   },
   {
     "year": 2010,
-    "average_hourly_wage": 24.6
+    "wage": 24.6
   },
   {
     "year": 2011,
-    "average_hourly_wage": 25.24
+    "wage": 25.24
   },
   {
     "year": 2012,
-    "average_hourly_wage": 26.51
+    "wage": 26.51
   },
   {
     "year": 2013,
-    "average_hourly_wage": 26.67
+    "wage": 26.67
   },
   {
     "year": 2014,
-    "average_hourly_wage": 27.8
+    "wage": 27.8
   },
   {
     "year": 2015,
-    "average_hourly_wage": 28.27
+    "wage": 28.27
   },
   {
     "year": 2016,
-    "average_hourly_wage": 28.58
+    "wage": 28.58
   },
   {
     "year": 2017,
-    "average_hourly_wage": 30.35
+    "wage": 30.35
   },
   {
     "year": 2018,
-    "average_hourly_wage": 31.63
+    "wage": 31.63
   },
   {
     "year": 2019,
-    "average_hourly_wage": 32.4
+    "wage": 32.4
   },
   {
     "year": 2020,
-    "average_hourly_wage": 33.18
+    "wage": 33.18
   },
   {
     "year": 2021,
-    "average_hourly_wage": 35.87
+    "wage": 35.87
   },
   {
     "year": 2022,
-    "average_hourly_wage": 36.29
+    "wage": 36.29
   },
   {
     "year": 2023,
-    "average_hourly_wage": 38.62
+    "wage": 38.62
   },
   {
     "year": 2024,
-    "average_hourly_wage": 41.58
+    "wage": 41.58
   }
 ]
