@@ -10,4 +10,4 @@ US Average Earnings [us_average_earnings.json]
   
 ## New Zealand 
 Earnings data is sourced from Stats NZ: https://explore.data.stats.govt.nz/
-- I am looking for datasets with a longer historical range. 
+- I’m seeking datasets with a more comprehensive historical range.
