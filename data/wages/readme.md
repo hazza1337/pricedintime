@@ -1,8 +1,21 @@
-#Instructions for adding wages data
+# Instructions for Adding Wages Data
 
-Wage data (aka hourly earnings data) should have a reliable source - government stats, or other institutions that can accurately track this data. 
+When contributing wage data (also known as hourly earnings data), follow these guidelines to ensure consistency and proper functionality in the application.
 
-No Currency Symbols: The price and wage values should be numeric only. Do not include currency symbols (e.g., $, £, €). The application does not currently support currency symbols in the data files.
-Valid JSON: Always validate your JSON files to ensure they are correctly formatted. You can use online JSON validators for this purpose.
-Date Format: Adhere strictly to the YYYY-MM-DD date format.
-Date Cleaning: Ensure that the date used for wage data is the last date of the month. e.g. December 20th, 2025 should be converted to 2025-12-31.
+## ✅ Source Requirements
+- Use only **reliable sources** such as official government statistics agencies or reputable institutions.
+- Data must be traceable and accurate.
+
+## 🚫 No Currency Symbols
+- All wage and price values must be **numeric only**.
+- **Do not include** any currency symbols (`$`, `£`, `€`, etc.).
+- The application currently does **not support** currency symbols in data files.
+
+## ✅ Valid JSON
+- Always **validate your JSON** to ensure it is correctly formatted.
+- Use tools like [JSONLint](https://jsonlint.com/) or similar online validators.
+
+## 📅 Date Formatting
+- Dates must be in the format: `YYYY-MM-DD`.
+- For **monthly data**, use the **last day of the month**:
+  - Example: `December 20, 2025` ➝ `2025-12-31`.
