@@ -18,5 +18,5 @@ When contributing wage data (also known as hourly earnings data), follow these g
 
 ## 📅 Date Formatting
 - Dates must be in the format: `YYYY-MM-DD`.
-- For **monthly data**, use the **last day of the month**:
+- For **monthly data**, use the **last day of the month**. Convert it to the last day of the month where required.
   - Example: `December 20, 2025` ➝ `2025-12-31`.
