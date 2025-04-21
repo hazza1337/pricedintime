@@ -1,4 +1,5 @@
 # Data Sources
+If you have access to or can get access to better historical datasets, or if you believe any of the data here is incorrect: DM me on X.com: @hfletcherjones.
 
 ## United States
 US Average Earnings [us_average_earnings.json]
@@ -9,3 +10,4 @@ US Average Earnings [us_average_earnings.json]
   
 ## New Zealand 
 Earnings data is sourced from Stats NZ: https://explore.data.stats.govt.nz/
+- I am looking for datasets with a longer historical range. 
