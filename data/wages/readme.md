@@ -10,6 +10,7 @@ When contributing wage data (also known as hourly earnings data), follow these g
 - All wage and price values must be **numeric only**.
 - **Do not include** any currency symbols (`$`, `£`, `€`, etc.).
 - The application currently does **not support** currency symbols in data files.
+- When adding wage data, ensure it is in the local currency. E.g. New Zealand data should have price data in NZD, United States data in USD, etc. 
 
 ## ✅ Valid JSON
 - Always **validate your JSON** to ensure it is correctly formatted.
