@@ -13,5 +13,5 @@ Price data is always in the local currency, and NOT inflation-adjusted. Always u
 ## United Kingdom
 
 
-### Universal Sources
+## Universal Sources
 - Big Mac data: Sourced from The Economist Big Mac Index: https://github.com/TheEconomist/big-mac-data
