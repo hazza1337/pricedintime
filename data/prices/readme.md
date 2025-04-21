@@ -5,6 +5,7 @@ Price data is always in the local currency, and NOT inflation-adjusted. Always u
 ## United States
 
 ## New Zealand
+Weekly rent: https://figure.nz/chart/dnQKC3FHjhAE6Kqw
 
 ## Australia
 
