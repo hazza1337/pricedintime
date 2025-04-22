@@ -13,6 +13,7 @@ Earnings data is sourced from Stats NZ: https://explore.data.stats.govt.nz/
 - I’m seeking datasets with a more comprehensive historical range.
 
 
+
 # Instructions for Adding Wages Data
 
 When contributing wage data (also known as hourly earnings data), follow these guidelines to ensure consistency and proper functionality in the application.
