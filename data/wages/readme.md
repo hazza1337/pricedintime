@@ -7,7 +7,7 @@ US Average Earnings [us_average_earnings.json]
   - Transformation: Assuming 233 days × 8 hours/day = 1,864 hours/year.  Per capita income / 1864 = Hourly earnings. Calculate the average for each year, and set it to the last day of the year. 
     - This aligns closely with BLS averages for full-time workers (~1,800–1,900 hrs/year depending on methodology and inclusion of part-time roles).
 
-US Blue Collar Average Earnings
+US Blue Collar Average Earnings [us_bluecollar_hourly_earnings.json]
 - https://measuringworth.com/datasets/uswage/
 
 ## New Zealand 
