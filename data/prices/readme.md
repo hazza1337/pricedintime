@@ -3,7 +3,7 @@
 Price data is always in the local currency, and NOT inflation-adjusted. Always use nominal prices.
 
 ## United States
-- Food, electricity, gas prices: https://fred.stlouisfed.org
+- Food, electricity, gas, house prices: https://fred.stlouisfed.org
 
 ## New Zealand
 - Weekly rent: https://figure.nz/chart/dnQKC3FHjhAE6Kqw
